@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.29b937c7.css",
+    "main.js": "/reactPortfolio/static/js/main.8c4d3e48.js",
+    "static/media/portfolio-6.png": "/reactPortfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/reactPortfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/reactPortfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/image.png": "/reactPortfolio/static/media/image.5b7e579c7d5d40b54c7b.png",
+    "static/media/portfolio-1.png": "/reactPortfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/reactPortfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/portfolio-3.png": "/reactPortfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/faraz_BSCS_Resume.pdf": "/reactPortfolio/static/media/faraz_BSCS_Resume.1754c4c71528d5892bc0.pdf",
+    "static/media/logo.png": "/reactPortfolio/static/media/logo.03ffad33da55b096dce1.png",
+    "static/media/hireme.png": "/reactPortfolio/static/media/hireme.d96d1b5401c16b229670.png",
+    "static/media/facebook.png": "/reactPortfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/reactPortfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/reactPortfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/reactPortfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/reactPortfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/reactPortfolio/index.html",
+    "main.29b937c7.css.map": "/reactPortfolio/static/css/main.29b937c7.css.map",
+    "main.8c4d3e48.js.map": "/reactPortfolio/static/js/main.8c4d3e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b937c7.css",
+    "static/js/main.8c4d3e48.js"
+  ]
+}
