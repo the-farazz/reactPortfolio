@@ -8,20 +8,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-
   background: rgb(30, 30, 30);
-  width: 100vw;
-  max-width: 75rem;
-  height: 5rem;
-  margin: 0 auto;
-  padding: 1rem 2rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
   position: sticky;
   top: 0;
   z-index: 3;
+
+  
+
 }
 .logo {
   object-fit: cover;
@@ -55,6 +48,7 @@
 .desktopMenuImg {
 }
 .leftNav img {
+  margin-top: 20px;
   object-fit: cover;
   width: 4rem;
   height: 5rem;

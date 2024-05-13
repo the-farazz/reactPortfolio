@@ -119,18 +119,6 @@ const Navbar = () => {
           </Link>
           <Link
             activeClass="active"
-            to="clients"
-            spy={true}
-            smooth={true}
-            offset={-100}
-            duration={500}
-            className="mobContent"
-            onClick={() => setShowMenu(!showMenu)}
-          >
-            Clients
-          </Link>
-          <Link
-            activeClass="active"
             to="contact"
             spy={true}
             smooth={true}

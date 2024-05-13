@@ -12,10 +12,7 @@ const Work = () => {
       <div className="workPara">
         <h2>My Portfolio</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat
-          maiores illum esse facere quae ea ratione soluta vel quod porro?
-          Perspiciatis eum vero a dignissimos laboriosam ipsa hic, cupiditate
-          dolor.
+        Check out my ReactJS projects below, each designed to be user-friendly and visually appealing.
         </p>
         <div className="projects">
           <img src={portfolioOne} alt="" />

@@ -9,22 +9,11 @@ const Skills = () => {
       <div className="skillsPara">
         <div className="skillTitle">What I do</div>
         <span className="skillDesc">
-          {`I'm a self-taught front-end developer passionate about learning and
-          improving in the tech world. I work well independently and in teams, aiming to deliver great results.`}
+          {`I'm a passionate front-end developer. I work well independently and in teams, aiming to deliver great results.`}
         </span>
       </div>
       <div className="skillsBars">
-        <div className="skillBar">
-          <div className="skillBarImg">
-            <img src={UIDesign} alt="" />
-          </div>
-          <div className="skillBarText">
-            <h2>{`UI/UX Design`}</h2>
-            <p>
-             {` I'm a self-taught front-end developer passionate about learning and improving in the tech world.`}
-            </p>
-          </div>
-        </div>
+        
         <div className="skillBar">
           <div className="skillBarImg">
             <img src={WebDesign} alt="" />
@@ -32,7 +21,7 @@ const Skills = () => {
           <div className="skillBarText">
             <h2>Website Design</h2>
             <p>
-            {`I'm a self-taught front-end developer passionate about learning and improving in the tech world.`}
+            {`Designing beautiful and user-friendly websites to make businesses stand out online.`}
             </p>
           </div>
         </div>
@@ -43,7 +32,18 @@ const Skills = () => {
           <div className="skillBarText">
             <h2>{"App Design"}</h2>
             <p>
-             {"I'm a self-taught front-end developer passionate about learning and improving in the tech world."}
+             {"Developing gorgeous mobile applications to ensure seamless usability on phone."}
+            </p>
+          </div>
+        </div>
+        <div className="skillBar">
+          <div className="skillBarImg">
+            <img src={UIDesign} alt="" />
+          </div>
+          <div className="skillBarText">
+            <h2>{`Desktop Design`}</h2>
+            <p>
+             {`Crafting sleek desktop interfaces for productive and enjoyable experiences.`}
             </p>
           </div>
         </div>

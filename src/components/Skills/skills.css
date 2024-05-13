@@ -26,6 +26,7 @@
     font-weight: 200;
     font-size: 1rem;
     padding: 0 7rem;
+    display: flex;
 
 }
 .skillsBars{
